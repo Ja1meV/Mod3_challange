@@ -2,7 +2,7 @@
 
 # *Mod3 Challenge* 
 
-This is a Jupyter lab project to view bitstamp vs coinbase currency data throughtout 2018 year.
+This is a Jupyter lab that will sort through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase.
 ## Technologies
 
 The project is in Jupyter Note with the following packages:
