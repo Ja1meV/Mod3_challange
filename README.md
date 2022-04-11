@@ -1,6 +1,6 @@
-# Mod3_challange
+# Mod3_challenge
 
-# *Mod3 Challange* 
+# *Mod3 Challenge* 
 
 This is a Jupyter lab project to view bitstamp vs coinbase currency data throughtout 2018 year.
 ## Technologies
